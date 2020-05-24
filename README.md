@@ -1,4 +1,4 @@
-# MatrizInvertida
+# MatrizInversa - Determinante de matriz
 
 ÁLGEBRA Y PROGRAMACIÓN LINEAL
 Parcial 3-C Programación
